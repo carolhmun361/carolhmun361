@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematic
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on educational business 
-- 📫 How to reach me ...
+
 
 <!---
 carolhmun361 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
